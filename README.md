@@ -24,5 +24,5 @@ commands each time in the terminal. As a shell can also take commands as input f
 these commands in a file and can execute them in shell to avoid this repetitive work. These files are called
 Shell Scripts or Shell Programs. So, Shell Scripting is the process of writing a series of commands in a
 file (script) to automate tasks. These scripts can perform complex tasks like file manipulation, program
-execution, and printing text. A shell script is typically a text file with a <mark>‘.sh‘</mark> extension.
+execution, and printing text.
 ### 
